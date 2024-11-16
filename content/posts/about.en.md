@@ -3,7 +3,7 @@ bigimg = ""
 subtitle = ""
 title = "About"
 url = "/en/about"
-draft = true
+draft = false
 +++
 
 I am a Senior Software Engineer specialized in backend development in Go, focused on creating high-impact solutions through clean, efficient and performant code.

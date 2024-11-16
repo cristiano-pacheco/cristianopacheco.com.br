@@ -6,8 +6,8 @@ theme = 'anubis2'
 
 [params]
 social = [
-    { id = "github", url = "https://github.com/cristiano-pacheco" },
     { id = "linkedin", url = "https://www.linkedin.com/in/cristiano-pacheco" },
+    { id = "github", url = "https://github.com/cristiano-pacheco" },
     { id = "x", url = "https://x.com/qixiano" },
 ]
 

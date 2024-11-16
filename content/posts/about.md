@@ -3,7 +3,7 @@ bigimg = ""
 subtitle = ""
 title = "Sobre"
 url = "/about"
-draft = true
+draft = false
 +++
 
 Sou Engenheiro de Software Sênior especializado em desenvolvimento backend em Go, com foco em criar soluções de alto impacto por meio de código limpo, eficiente e performático.
