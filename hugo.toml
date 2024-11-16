@@ -1,0 +1,43 @@
+baseURL = 'https://cristianopacheco.com.br/'
+languageCode = 'pt'
+defaultContentLanguage = 'pt'
+title = 'Cristiano Pacheco'
+theme = 'anubis2'
+
+[params]
+social = [
+    { id = "github", url = "https://github.com/cristiano-pacheco" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/cristiano-pacheco" },
+    { id = "x", url = "https://x.com/qixiano" },
+]
+
+[params.author]
+name = "Cristiano Pacheco"
+
+[params.GoogleAnalytics]
+enabled = false
+gtag = "G-asdfasd"
+
+[languages]
+[languages.en.params]
+content = "I'm a software engineer"
+languageName = 'English'
+weight = 2
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+"name" = "About"
+"url" = "/about/"
+"weight" = 5
+
+[languages.pt]
+[languages.pt.params]
+content = "Sou um engenheiro de software"
+languageName = 'Português'
+weight = 1
+
+[languages.pt.menu]
+[[languages.pt.menu.main]]
+"name" = "Sobre"
+"url" = "/about/"
+"weight" = 15
